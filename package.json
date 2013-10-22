@@ -1,1 +1,6 @@
-{}
+{
+  "dependencies": {
+    "continuation-local-storage": "~2.4.3",
+    "q": "~0.9.7"
+  }
+}
